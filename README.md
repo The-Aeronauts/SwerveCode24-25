@@ -1,6 +1,6 @@
 # Team 4054 - The Areonauts 
 ### Based on Yet Another Generic Swerve Library (YAGSL) Example project
-# This is using WPILIB 2024
+# This project is using WPILIB 2024
 
 # Library Information
 ## DON'T touch unless you know what your doing
