@@ -3,6 +3,7 @@
 # This is using WPILIB 2024
 
 # Library Information
+## DON'T touch unless you know what your doing
 ### Installation
 - [ ] Install NavX Library
 - [ ] Install Phoenix Library
