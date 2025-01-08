@@ -4,6 +4,7 @@
 
 # Library Information
 ## DON'T touch unless you know what your doing
+## All needed librarys are pre-installed
 ### Installation
 - [ ] Install NavX Library
 - [ ] Install Phoenix Library
